@@ -1,0 +1,8 @@
+{
+  "name": "CODEWIZARD-Live Web Dev Sandbox",
+  "description": "A live web development sandbox powered by Gemini. Generate HTML, CSS, and JavaScript from natural language prompts and see the results instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
